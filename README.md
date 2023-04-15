@@ -9,6 +9,7 @@ La principal ventaja de una red ad-hoc es su facilidad de configuración y su fl
 
 _Este proyecto representa la simulacion de una red AdHoc de 4 nodos de computo. En la que se tienen en cuenta difentes variables del entorno como el ancho de banda de la red, la cantidad de interferencia o latencia prensente, el movimiento de los nodos y sus distancias respectivas._
 
+https://raw.githubusercontent.com/CamiloHedzz/Simulacion_Red_AdHoc/main/images/Simulacion.png
 
 ## Instalación
 Para el correcto funcionamiento y ejecución de los siguientes ficheros se debe tener en cuenta la instalación de los siguientes paquetes

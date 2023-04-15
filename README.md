@@ -14,7 +14,7 @@ $ pip install tkinter
 
 
 ## Compilación y ejecución
-_Para la ejecución de esta simulación es necesario dirigirse el archivo python llamado eject.py
+Para la ejecución de esta simulación es necesario dirigirse el archivo python llamado eject.py
 
 ```
 $ ruta/del/fichero/ python eject.py

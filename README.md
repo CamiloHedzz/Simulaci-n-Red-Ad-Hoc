@@ -25,7 +25,9 @@ $ pip install tkinter
 Para la ejecución de esta simulación es necesario dirigirse el archivo python llamado eject.py
 
 ```
-$ ruta/del/fichero/ python eject.py
+$ cd simulacion_parcial
+$ javac inicio.java
+$ java inicio
 ```
 
 

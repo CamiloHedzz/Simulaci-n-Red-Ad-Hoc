@@ -36,11 +36,5 @@ $ ruta/del/fichero/ python eject.py
 
 👦 **Juan Esteban Arias Patrón** - [Juanariasp](https://github.com/Juanariasp)
 
-👦 **Christian David Jimenez Montaño** - [styLe-Redz](https://github.com/styLe-Redz)
-
 👦 **Juan Camilo Hernández Ibañez** - [CamiloHedzz](https://github.com/CamiloHedzz)
-
-👦 **Juan Varon** 
-
-👦 **Miguel Varon** 
 

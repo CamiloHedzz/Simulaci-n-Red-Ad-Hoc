@@ -20,17 +20,6 @@ Para el correcto funcionamiento y ejecución de los siguientes ficheros se debe 
 $ pip install tkinter
 ```
 
-
-## Compilación y ejecución
-Para la ejecución de esta simulación es necesario dirigirse el archivo python llamado eject.py
-
-```
-$ cd simulacion_parcial
-$ javac inicio.java
-$ java inicio
-```
-
-
 ## About
 **Universidad Sergio Arboleda**
 
